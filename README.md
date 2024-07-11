@@ -6,5 +6,4 @@ given customer's last name. Now we may get more than 1 customer detail from thos
 against given last name."
 
 Reference:
-https://riptutorial.com/solidprinciples/
-topic/9700/getting-started-with-solid-principles
+https://riptutorial.com/solidprinciples/topic/9700/getting-started-with-solid-principles
